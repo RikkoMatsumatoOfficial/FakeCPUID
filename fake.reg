@@ -1,0 +1,302 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\HARDWARE\DESCRIPTION\System\CentralProcessor]
+
+[HKEY_LOCAL_MACHINE\HARDWARE\DESCRIPTION\System\CentralProcessor\0]
+"Component Information"=hex:00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"Identifier"="Intel64 Family 6 Model 183 Stepping 1"
+"Configuration Data"=hex(9):ff,ff,ff,ff,ff,ff,ff,ff,00,00,00,00,00,00,00,00
+"ProcessorNameString"="Intel(R) Core(TM) i9-14900k @ 3.20GHz"
+"VendorIdentifier"="GenuineIntel"
+"FeatureSet"=dword:3d1b3fff
+"~MHz"=dword:00000c80
+"Update Revision"=hex:00,00,00,00,44,00,00,00
+"Update Status"=dword:00000000
+"Previous Update Revision"=hex:00,00,00,00,3d,00,00,00
+"Platform Specific Field 1"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\HARDWARE\DESCRIPTION\System\CentralProcessor\1]
+"Component Information"=hex:00,00,00,00,00,00,00,00,01,00,00,00,00,00,01,00
+"Identifier"="Intel64 Family 6 Model 63 Stepping 2"
+"Configuration Data"=hex(9):ff,ff,ff,ff,ff,ff,ff,ff,00,00,00,00,00,00,00,00
+"ProcessorNameString"="Intel(R) Core(TM) i9-14900k @ 3.20GHz"
+"VendorIdentifier"="GenuineIntel"
+"FeatureSet"=dword:3d1b3fff
+"~MHz"=dword:00000c80
+"Update Revision"=hex:00,00,00,00,44,00,00,00
+"Update Status"=dword:00000006
+"Previous Update Revision"=hex:00,00,00,00,44,00,00,00
+"Platform Specific Field 1"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\HARDWARE\DESCRIPTION\System\CentralProcessor\10]
+"Component Information"=hex:00,00,00,00,00,00,00,00,0a,00,00,00,00,00,0a,00
+"Identifier"="Intel64 Family 6 Model 183 Stepping 1"
+"Configuration Data"=hex(9):ff,ff,ff,ff,ff,ff,ff,ff,00,00,00,00,00,00,00,00
+"ProcessorNameString"="Intel(R) Core(TM) i9-14900k @ 3.20GHz"
+"VendorIdentifier"="GenuineIntel"
+"FeatureSet"=dword:3d1b3fff
+"~MHz"=dword:00000c80
+"Update Revision"=hex:00,00,00,00,44,00,00,00
+"Update Status"=dword:00000000
+"Previous Update Revision"=hex:00,00,00,00,3d,00,00,00
+"Platform Specific Field 1"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\HARDWARE\DESCRIPTION\System\CentralProcessor\11]
+"Component Information"=hex:00,00,00,00,00,00,00,00,0b,00,00,00,00,00,0b,00
+"Identifier"="Intel64 Family 6 Model 183 Stepping 1"
+"Configuration Data"=hex(9):ff,ff,ff,ff,ff,ff,ff,ff,00,00,00,00,00,00,00,00
+"ProcessorNameString"="Intel(R) Core(TM) i9-14900k @ 3.20GHz"
+"VendorIdentifier"="GenuineIntel"
+"FeatureSet"=dword:3d1b3fff
+"~MHz"=dword:00000c80
+"Update Revision"=hex:00,00,00,00,44,00,00,00
+"Update Status"=dword:00000006
+"Previous Update Revision"=hex:00,00,00,00,44,00,00,00
+"Platform Specific Field 1"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\HARDWARE\DESCRIPTION\System\CentralProcessor\12]
+"Component Information"=hex:00,00,00,00,00,00,00,00,0c,00,00,00,00,00,0c,00
+"Identifier"="Intel64 Family 6 Model 183 Stepping 1"
+"Configuration Data"=hex(9):ff,ff,ff,ff,ff,ff,ff,ff,00,00,00,00,00,00,00,00
+"ProcessorNameString"="Intel(R) Core(TM) i9-14900k @ 3.20GHz"
+"VendorIdentifier"="GenuineIntel"
+"FeatureSet"=dword:3d1b3fff
+"~MHz"=dword:00000c80
+"Update Revision"=hex:00,00,00,00,44,00,00,00
+"Update Status"=dword:00000000
+"Previous Update Revision"=hex:00,00,00,00,3d,00,00,00
+"Platform Specific Field 1"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\HARDWARE\DESCRIPTION\System\CentralProcessor\13]
+"Component Information"=hex:00,00,00,00,00,00,00,00,0d,00,00,00,00,00,0d,00
+"Identifier"="Intel64 Family 6 Model 183 Stepping 1"
+"Configuration Data"=hex(9):ff,ff,ff,ff,ff,ff,ff,ff,00,00,00,00,00,00,00,00
+"ProcessorNameString"="Intel(R) Core(TM) i9-14900k @ 3.20GHz"
+"VendorIdentifier"="GenuineIntel"
+"FeatureSet"=dword:3d1b3fff
+"~MHz"=dword:00000c80
+"Update Revision"=hex:00,00,00,00,44,00,00,00
+"Update Status"=dword:00000006
+"Previous Update Revision"=hex:00,00,00,00,44,00,00,00
+"Platform Specific Field 1"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\HARDWARE\DESCRIPTION\System\CentralProcessor\14]
+"Component Information"=hex:00,00,00,00,00,00,00,00,0e,00,00,00,00,00,0e,00
+"Identifier"="Intel64 Family 6 Model 183 Stepping 1"
+"Configuration Data"=hex(9):ff,ff,ff,ff,ff,ff,ff,ff,00,00,00,00,00,00,00,00
+"ProcessorNameString"="Intel(R) Core(TM) i9-14900k @ 3.20GHz"
+"VendorIdentifier"="GenuineIntel"
+"FeatureSet"=dword:3d1b3fff
+"~MHz"=dword:00000c80
+"Update Revision"=hex:00,00,00,00,44,00,00,00
+"Update Status"=dword:00000000
+"Previous Update Revision"=hex:00,00,00,00,3d,00,00,00
+"Platform Specific Field 1"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\HARDWARE\DESCRIPTION\System\CentralProcessor\15]
+"Component Information"=hex:00,00,00,00,00,00,00,00,0f,00,00,00,00,00,0f,00
+"Identifier"="Intel64 Family 6 Model 183 Stepping 1"
+"Configuration Data"=hex(9):ff,ff,ff,ff,ff,ff,ff,ff,00,00,00,00,00,00,00,00
+"ProcessorNameString"="Intel(R) Core(TM) i9-14900k @ 3.20GHz"
+"VendorIdentifier"="GenuineIntel"
+"FeatureSet"=dword:3d1b3fff
+"~MHz"=dword:00000c80
+"Update Revision"=hex:00,00,00,00,44,00,00,00
+"Update Status"=dword:00000006
+"Previous Update Revision"=hex:00,00,00,00,44,00,00,00
+"Platform Specific Field 1"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\HARDWARE\DESCRIPTION\System\CentralProcessor\16]
+"Component Information"=hex:00,00,00,00,00,00,00,00,10,00,00,00,00,00,10,00
+"Identifier"="Intel64 Family 6 Model 183 Stepping 1"
+"Configuration Data"=hex(9):ff,ff,ff,ff,ff,ff,ff,ff,00,00,00,00,00,00,00,00
+"ProcessorNameString"="Intel(R) Core(TM) i9-14900k @ 3.20GHz"
+"VendorIdentifier"="GenuineIntel"
+"FeatureSet"=dword:3d1b3fff
+"~MHz"=dword:00000c80
+"Update Revision"=hex:00,00,00,00,44,00,00,00
+"Update Status"=dword:00000000
+"Previous Update Revision"=hex:00,00,00,00,3d,00,00,00
+"Platform Specific Field 1"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\HARDWARE\DESCRIPTION\System\CentralProcessor\17]
+"Component Information"=hex:00,00,00,00,00,00,00,00,11,00,00,00,00,00,11,00
+"Identifier"="Intel64 Family 6 Model 183 Stepping 1"
+"Configuration Data"=hex(9):ff,ff,ff,ff,ff,ff,ff,ff,00,00,00,00,00,00,00,00
+"ProcessorNameString"="Intel(R) Core(TM) i9-14900k @ 3.20GHz"
+"VendorIdentifier"="GenuineIntel"
+"FeatureSet"=dword:3d1b3fff
+"~MHz"=dword:00000c80
+"Update Revision"=hex:00,00,00,00,44,00,00,00
+"Update Status"=dword:00000006
+"Previous Update Revision"=hex:00,00,00,00,44,00,00,00
+"Platform Specific Field 1"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\HARDWARE\DESCRIPTION\System\CentralProcessor\18]
+"Component Information"=hex:00,00,00,00,00,00,00,00,12,00,00,00,00,00,12,00
+"Identifier"="Intel64 Family 6 Model 183 Stepping 1"
+"Configuration Data"=hex(9):ff,ff,ff,ff,ff,ff,ff,ff,00,00,00,00,00,00,00,00
+"ProcessorNameString"="Intel(R) Core(TM) i9-14900k @ 3.20GHz"
+"VendorIdentifier"="GenuineIntel"
+"FeatureSet"=dword:3d1b3fff
+"~MHz"=dword:00000c80
+"Update Revision"=hex:00,00,00,00,44,00,00,00
+"Update Status"=dword:00000000
+"Previous Update Revision"=hex:00,00,00,00,3d,00,00,00
+"Platform Specific Field 1"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\HARDWARE\DESCRIPTION\System\CentralProcessor\19]
+"Component Information"=hex:00,00,00,00,00,00,00,00,13,00,00,00,00,00,13,00
+"Identifier"="Intel64 Family 6 Model 183 Stepping 1"
+"Configuration Data"=hex(9):ff,ff,ff,ff,ff,ff,ff,ff,00,00,00,00,00,00,00,00
+"ProcessorNameString"="Intel(R) Core(TM) i9-14900k @ 3.20GHz"
+"VendorIdentifier"="GenuineIntel"
+"FeatureSet"=dword:3d1b3fff
+"~MHz"=dword:00000c80
+"Update Revision"=hex:00,00,00,00,44,00,00,00
+"Update Status"=dword:00000006
+"Previous Update Revision"=hex:00,00,00,00,44,00,00,00
+"Platform Specific Field 1"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\HARDWARE\DESCRIPTION\System\CentralProcessor\20]
+"Component Information"=hex:00,00,00,00,00,00,00,00,02,00,00,00,00,00,02,00
+"Identifier"="Intel64 Family 6 Model 183 Stepping 1"
+"Configuration Data"=hex(9):ff,ff,ff,ff,ff,ff,ff,ff,00,00,00,00,00,00,00,00
+"ProcessorNameString"="Intel(R) Core(TM) i9-14900k @ 3.20GHz"
+"VendorIdentifier"="GenuineIntel"
+"FeatureSet"=dword:3d1b3fff
+"~MHz"=dword:00000c80
+"Update Revision"=hex:00,00,00,00,44,00,00,00
+"Update Status"=dword:00000000
+"Previous Update Revision"=hex:00,00,00,00,3d,00,00,00
+"Platform Specific Field 1"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\HARDWARE\DESCRIPTION\System\CentralProcessor\21]
+"Component Information"=hex:00,00,00,00,00,00,00,00,03,00,00,00,00,00,03,00
+"Identifier"="Intel64 Family 6 Model 183 Stepping 1"
+"Configuration Data"=hex(9):ff,ff,ff,ff,ff,ff,ff,ff,00,00,00,00,00,00,00,00
+"ProcessorNameString"="Intel(R) Core(TM) i9-14900k @ 3.20GHz"
+"VendorIdentifier"="GenuineIntel"
+"FeatureSet"=dword:3d1b3fff
+"~MHz"=dword:00000c80
+"Update Revision"=hex:00,00,00,00,44,00,00,00
+"Update Status"=dword:00000006
+"Previous Update Revision"=hex:00,00,00,00,44,00,00,00
+"Platform Specific Field 1"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\HARDWARE\DESCRIPTION\System\CentralProcessor\22]
+"Component Information"=hex:00,00,00,00,00,00,00,00,04,00,00,00,00,00,04,00
+"Identifier"="Intel64 Family 6 Model 183 Stepping 1"
+"Configuration Data"=hex(9):ff,ff,ff,ff,ff,ff,ff,ff,00,00,00,00,00,00,00,00
+"ProcessorNameString"="Intel(R) Core(TM) i9-14900k @ 3.20GHz"
+"VendorIdentifier"="GenuineIntel"
+"FeatureSet"=dword:3d1b3fff
+"~MHz"=dword:00000c80
+"Update Revision"=hex:00,00,00,00,44,00,00,00
+"Update Status"=dword:00000000
+"Previous Update Revision"=hex:00,00,00,00,3d,00,00,00
+"Platform Specific Field 1"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\HARDWARE\DESCRIPTION\System\CentralProcessor\23]
+"Component Information"=hex:00,00,00,00,00,00,00,00,05,00,00,00,00,00,05,00
+"Identifier"="Intel64 Family 6 Model 183 Stepping 1"
+"Configuration Data"=hex(9):ff,ff,ff,ff,ff,ff,ff,ff,00,00,00,00,00,00,00,00
+"ProcessorNameString"="Intel(R) Core(TM) i9-14900k @ 3.20GHz"
+"VendorIdentifier"="GenuineIntel"
+"FeatureSet"=dword:3d1b3fff
+"~MHz"=dword:00000c80
+"Update Revision"=hex:00,00,00,00,44,00,00,00
+"Update Status"=dword:00000006
+"Previous Update Revision"=hex:00,00,00,00,44,00,00,00
+"Platform Specific Field 1"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\HARDWARE\DESCRIPTION\System\CentralProcessor\25]
+"Component Information"=hex:00,00,00,00,00,00,00,00,06,00,00,00,00,00,06,00
+"Identifier"="Intel64 Family 6 Model 183 Stepping 1"
+"Configuration Data"=hex(9):ff,ff,ff,ff,ff,ff,ff,ff,00,00,00,00,00,00,00,00
+"ProcessorNameString"="Intel(R) Core(TM) i9-14900k @ 3.20GHz"
+"VendorIdentifier"="GenuineIntel"
+"FeatureSet"=dword:3d1b3fff
+"~MHz"=dword:00000c80
+"Update Revision"=hex:00,00,00,00,44,00,00,00
+"Update Status"=dword:00000000
+"Previous Update Revision"=hex:00,00,00,00,3d,00,00,00
+"Platform Specific Field 1"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\HARDWARE\DESCRIPTION\System\CentralProcessor\26]
+"Component Information"=hex:00,00,00,00,00,00,00,00,07,00,00,00,00,00,07,00
+"Identifier"="Intel64 Family 6 Model 183 Stepping 1"
+"Configuration Data"=hex(9):ff,ff,ff,ff,ff,ff,ff,ff,00,00,00,00,00,00,00,00
+"ProcessorNameString"="Intel(R) Core(TM) i9-14900k @ 3.20GHz"
+"VendorIdentifier"="GenuineIntel"
+"FeatureSet"=dword:3d1b3fff
+"~MHz"=dword:00000c80
+"Update Revision"=hex:00,00,00,00,44,00,00,00
+"Update Status"=dword:00000006
+"Previous Update Revision"=hex:00,00,00,00,44,00,00,00
+"Platform Specific Field 1"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\HARDWARE\DESCRIPTION\System\CentralProcessor\27]
+"Component Information"=hex:00,00,00,00,00,00,00,00,08,00,00,00,00,00,08,00
+"Identifier"="Intel64 Family 6 Model 183 Stepping 1"
+"Configuration Data"=hex(9):ff,ff,ff,ff,ff,ff,ff,ff,00,00,00,00,00,00,00,00
+"ProcessorNameString"="Intel(R) Core(TM) i9-14900k @ 3.20GHz"
+"VendorIdentifier"="GenuineIntel"
+"FeatureSet"=dword:3d1b3fff
+"~MHz"=dword:00000c80
+"Update Revision"=hex:00,00,00,00,44,00,00,00
+"Update Status"=dword:00000000
+"Previous Update Revision"=hex:00,00,00,00,3d,00,00,00
+"Platform Specific Field 1"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\HARDWARE\DESCRIPTION\System\CentralProcessor\28]
+"Component Information"=hex:00,00,00,00,00,00,00,00,09,00,00,00,00,00,09,00
+"Identifier"="Intel64 Family 6 Model 183 Stepping 1"
+"Configuration Data"=hex(9):ff,ff,ff,ff,ff,ff,ff,ff,00,00,00,00,00,00,00,00
+"ProcessorNameString"="Intel(R) Core(TM) i9-14900k @ 3.20GHz"
+"VendorIdentifier"="GenuineIntel"
+"FeatureSet"=dword:3d1b3fff
+"~MHz"=dword:00000c80
+"Update Revision"=hex:00,00,00,00,44,00,00,00
+"Update Status"=dword:00000006
+"Previous Update Revision"=hex:00,00,00,00,44,00,00,00
+"Platform Specific Field 1"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\HARDWARE\DESCRIPTION\System\CentralProcessor\29]
+"Component Information"=hex:00,00,00,00,00,00,00,00,09,00,00,00,00,00,09,00
+"Identifier"="Intel64 Family 6 Model 183 Stepping 1"
+"Configuration Data"=hex(9):ff,ff,ff,ff,ff,ff,ff,ff,00,00,00,00,00,00,00,00
+"ProcessorNameString"="Intel(R) Core(TM) i9-14900k @ 3.20GHz"
+"VendorIdentifier"="GenuineIntel"
+"FeatureSet"=dword:3d1b3fff
+"~MHz"=dword:00000c80
+"Update Revision"=hex:00,00,00,00,44,00,00,00
+"Update Status"=dword:00000006
+"Previous Update Revision"=hex:00,00,00,00,44,00,00,00
+"Platform Specific Field 1"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\HARDWARE\DESCRIPTION\System\CentralProcessor\30]
+"Component Information"=hex:00,00,00,00,00,00,00,00,09,00,00,00,00,00,09,00
+"Identifier"="Intel64 Family 6 Model 183 Stepping 1"
+"Configuration Data"=hex(9):ff,ff,ff,ff,ff,ff,ff,ff,00,00,00,00,00,00,00,00
+"ProcessorNameString"="Intel(R) Core(TM) i9-14900k @ 3.20GHz"
+"VendorIdentifier"="GenuineIntel"
+"FeatureSet"=dword:3d1b3fff
+"~MHz"=dword:00000c80
+"Update Revision"=hex:00,00,00,00,44,00,00,00
+"Update Status"=dword:00000006
+"Previous Update Revision"=hex:00,00,00,00,44,00,00,00
+"Platform Specific Field 1"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\HARDWARE\DESCRIPTION\System\CentralProcessor\31]
+"Component Information"=hex:00,00,00,00,00,00,00,00,09,00,00,00,00,00,09,00
+"Identifier"="Intel64 Family 6 Model 183 Stepping 1"
+"Configuration Data"=hex(9):ff,ff,ff,ff,ff,ff,ff,ff,00,00,00,00,00,00,00,00
+"ProcessorNameString"="Intel(R) Core(TM) i9-14900k @ 3.20GHz"
+"VendorIdentifier"="GenuineIntel"
+"FeatureSet"=dword:3d1b3fff
+"~MHz"=dword:00000c80
+"Update Revision"=hex:00,00,00,00,44,00,00,00
+"Update Status"=dword:00000006
+"Previous Update Revision"=hex:00,00,00,00,44,00,00,00
+"Platform Specific Field 1"=dword:00000001
